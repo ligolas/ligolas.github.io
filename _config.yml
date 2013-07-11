@@ -1,3 +1,15 @@
 safe: true
 lsi: false
 pygments: true
+
+auto: true
+
+markdown: rdiscount
+pygments: true
+paginate: 6
+permalink: /:title
+
+title: Juge
+url: http://ligolas.github.io
+feed: /atom.xml
+author_info: <a href="http://ligolas.github.io">ligolas</a>
