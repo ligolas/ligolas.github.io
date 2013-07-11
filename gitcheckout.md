@@ -1,7 +1,7 @@
 ---
 title: git checkout 撤销本地修改遇到的问题
 ---
-#What is wrong
+#git CRLF问题手记
 1. 直接使用 git check -- filter.js 命令完成，无任何回显，使用git status 查看，filter.js依然处于"changes not staged for commited"
 	3. 误操作（双击了文件）使得IE弹出了该文件的下载提示框被忽略，结果一直提示文件占用，以为是git或者mingw问题，差点掉沟里
 	2. 使用git diff 查看不同，得到最后有提示:可能是crlf的问题
