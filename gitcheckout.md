@@ -3,7 +3,7 @@ title: git CRLF问题手记
 ---
 
 
-#{% if page.title %}
+#{{ page.title }}
 1. 直接使用 git check -- filter.js 命令完成，无任何回显，使用git status 查看，filter.js依然处于"changes not staged for commited"
 2. 误操作（双击了文件）使得IE弹出了该文件的下载提示框被忽略，结果一直提示文件占用，以为是git或者mingw问题，差点掉沟里
 3. 使用git diff 查看不同，得到最后有提示:可能是crlf的问题
