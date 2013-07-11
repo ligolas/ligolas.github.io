@@ -1,5 +1,4 @@
 ---
-layout: default
 title: git checkout 撤销本地修改遇到的问题
 ---
 
