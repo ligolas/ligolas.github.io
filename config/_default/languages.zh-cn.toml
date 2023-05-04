@@ -16,7 +16,7 @@ dateFormat = "2 January 2006"
 
 [author]
   name = "ligolas"
-  image = "img/cancer-clipart.jpg"
+  image = "img/author.jpg"
   headline = "Ramen!"
   bio = "Ramen again"
   links = [
