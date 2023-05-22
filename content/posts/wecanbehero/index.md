@@ -2,7 +2,7 @@
 title: "We can be hero"
 description: "关于创业的思考"
 date: 2023-05-10T13:02:52+08:00
-draft: false
+draft: true
 ---
 
 这篇是之前没有坚持下来的博客上面记录的一篇（寥寥数句，算是微博？）的重写。
